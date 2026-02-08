@@ -86,20 +86,6 @@ VITE_API_URL=https://hrms-lite-backend.onrender.com
 6. Add env: `VITE_API_URL` = backend URL (e.g., `https://hrms-lite-backend.onrender.com`)
 7. Deploy
 
-## GitHub Repository
-
-Push to GitHub:
-
-```bash
-git init
-git config user.email "your-email@example.com"
-git config user.name "Your Name"
-git add -A
-git commit -m "Initial HRMS Lite commit"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/hrms-lite.git
-git push -u origin main
-```
 
 ## Project Structure
 
